@@ -1,0 +1,3511 @@
+
+------ new game 1 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 2 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 3 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 4 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 5 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 6 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 7 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 8 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 9 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 10 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 11 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 12 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 13 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 14 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 15 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 16 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 17 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 18 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 19 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 20 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 21 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 22 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 23 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 24 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 25 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 26 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 27 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 28 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 29 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 30 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 31 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 32 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 33 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 34 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 35 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 36 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 37 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 38 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 39 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 40 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 41 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 42 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 43 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 44 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 45 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 46 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 47 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 48 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 49 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 50 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 51 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 52 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 53 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 54 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 55 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 56 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 57 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 58 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 59 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 60 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 61 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 62 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 63 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 64 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 65 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 66 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 67 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 68 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 69 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 70 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 71 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 72 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 73 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 74 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 75 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 76 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 77 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 78 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 79 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 80 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 81 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 82 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 83 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 84 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 85 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 86 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 87 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 88 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 89 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 90 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 91 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 92 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 93 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 94 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 95 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 96 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 97 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 98 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 99 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 100 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 101 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 102 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 103 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 104 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 105 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 106 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 107 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 108 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 109 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 110 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 111 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 112 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 113 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 114 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 115 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 116 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 117 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 118 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 119 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 120 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 121 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 122 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 123 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 124 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 125 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 126 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 127 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 128 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 129 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 130 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 131 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 132 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 133 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 134 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 135 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 136 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 137 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 138 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 139 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 140 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 141 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 142 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 143 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 144 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 145 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 146 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 147 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 148 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 149 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 150 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 151 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 152 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 153 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 154 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 155 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 156 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 157 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 158 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 159 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 160 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 161 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 162 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 163 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 164 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 165 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 166 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 167 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 168 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 169 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 170 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 171 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 172 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 173 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 174 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 175 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 176 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 177 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 178 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 179 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 180 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 181 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 182 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 183 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 184 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 185 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 186 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 187 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 188 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 189 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 190 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 191 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 192 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 193 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 194 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 195 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 196 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 197 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 198 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 199 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 200 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 201 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 202 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 203 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 204 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 205 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 206 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 207 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 208 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 209 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 210 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 211 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 212 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 213 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 214 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 215 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 216 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 217 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 218 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 219 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 220 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 221 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 222 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 223 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 224 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 225 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 226 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 227 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 228 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 229 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 230 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 231 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 232 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 233 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 234 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 235 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 236 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 237 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 238 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 239 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 240 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 241 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 242 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 243 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 244 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 245 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 246 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 247 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 248 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 249 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 250 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 251 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 252 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 253 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 254 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 255 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 256 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 257 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 258 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 259 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 260 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 261 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 262 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 263 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 264 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 265 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 266 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 267 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 268 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 269 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 270 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 271 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 272 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 273 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 274 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 275 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 276 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 277 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 278 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 279 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 280 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 281 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 282 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 283 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 284 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 285 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 286 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 287 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 288 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 289 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 290 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 291 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 292 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 293 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 294 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 295 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 296 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 297 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 298 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 299 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 300 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 301 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 302 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 303 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 304 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 305 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 306 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 307 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 308 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 309 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 310 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 311 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 312 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 313 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 314 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 315 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 316 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 317 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 318 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 319 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 320 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 321 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 322 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 323 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 324 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 325 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 326 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 327 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 328 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 329 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 330 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 331 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 332 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 333 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 334 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 335 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 336 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 337 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 338 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 339 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 340 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 341 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 342 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 343 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 344 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 345 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 346 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 347 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 348 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 349 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 350 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 351 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 352 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 353 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 354 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 355 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 356 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 357 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 358 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 359 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 360 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 361 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 362 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 363 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 364 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 365 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 366 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 367 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 368 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 369 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 370 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 371 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 372 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 373 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 374 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 375 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 376 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 377 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 378 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 379 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 380 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 381 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 382 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 383 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 384 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 385 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 386 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 387 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 388 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 389 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 390 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 391 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 392 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 393 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 394 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 395 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 396 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 397 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 398 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 399 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 400 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 401 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 402 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 403 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 404 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 405 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 406 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 407 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 408 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 409 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 410 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 411 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 412 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 413 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 414 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 415 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 416 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 417 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 418 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 419 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 420 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 421 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 422 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 423 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 424 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 425 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 426 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 427 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 428 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 429 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 430 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 431 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 432 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 433 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 434 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 435 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 436 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 437 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 438 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 439 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 440 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 441 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 442 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 443 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 444 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 445 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 446 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 447 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 448 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 449 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 450 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 451 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 452 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 453 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 454 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 455 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 456 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 457 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 458 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 459 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 460 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 461 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 462 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 463 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 464 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 465 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 466 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player loses
+
+------ new game 467 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 468 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 469 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 470 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 471 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 472 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 473 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 474 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player loses
+
+------ new game 475 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 476 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 477 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 478 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player loses
+
+------ new game 479 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 480 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 481 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 482 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 483 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 484 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 485 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 486 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player loses
+
+------ new game 487 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player wins
+
+------ new game 488 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 489 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 490 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player wins
+
+------ new game 491 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to change his decision to door # 3
+	player wins
+
+------ new game 492 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 3
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 493 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 494 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 495 of 500 --------
+	prize is behind door # 2
+	player initially picks door # 1
+	game reveals door # 3
+	player decides to change his decision to door # 2
+	player wins
+
+------ new game 496 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to stick with initial decision
+	player loses
+
+------ new game 497 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 2
+	game reveals door # 3
+	player decides to change his decision to door # 1
+	player wins
+
+------ new game 498 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 2
+	game reveals door # 1
+	player decides to stick with initial decision
+	player loses
+
+------ new game 499 of 500 --------
+	prize is behind door # 3
+	player initially picks door # 3
+	game reveals door # 2
+	player decides to stick with initial decision
+	player wins
+
+------ new game 500 of 500 --------
+	prize is behind door # 1
+	player initially picks door # 1
+	game reveals door # 2
+	player decides to change his decision to door # 3
+	player loses
+
+
+=========== RESULTS =========
+probability of guessing correctly on the first guess: 32.800000 percent
+probability of winning after switching: 68.363636 percent
+probability of winning after NOT switching: 34.222222 percent
+
+
+Done!
+Elapsed time is 0.256548 seconds.
+>> 
